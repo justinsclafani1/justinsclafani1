@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin, an <a href="https://www.linkedin.com/in/justin-sclafani-5b846b3b8/">IT Professional</a>!</h1>
+<h1>Hi, I'm Justin!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
