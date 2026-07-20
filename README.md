@@ -6,4 +6,4 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/justinsclafani1/configure-ad)
 
 - <b>Microsoft 365</b>
-  - [Microsoft 365 User Administration: Roles, Permissions, and Password Reset](https://github.com/justinsclafani1/microsoft-365-user-administration)
+  - [Microsoft 365 Overview of Roles, Permissions, and Password Reset](https://github.com/justinsclafani1/microsoft-365-user-administration)
